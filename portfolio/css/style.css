@@ -19,6 +19,12 @@ img{
 a{
     color: yellow;
 }
+#link1{
+    color:red;
+}
+#link{
+    color: red;
+}
 a:hover{
     text-decoration: none;
     color: green;
@@ -78,6 +84,7 @@ header{
 .Education p{
     width: 60%;
 }
+
 
 
 
